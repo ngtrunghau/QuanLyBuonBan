@@ -1,0 +1,12 @@
+E:\DATA\NĂM 3_HK1\Phân tích thiết kế hệ thống thông tin\baocao\QL_BUON_BAN\QL_BUON_BAN\DTO\bin\Debug\DTO.dll
+E:\DATA\NĂM 3_HK1\Phân tích thiết kế hệ thống thông tin\baocao\QL_BUON_BAN\QL_BUON_BAN\DTO\bin\Debug\DTO.pdb
+E:\DATA\NĂM 3_HK1\Phân tích thiết kế hệ thống thông tin\baocao\QL_BUON_BAN\QL_BUON_BAN\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+E:\DATA\NĂM 3_HK1\Phân tích thiết kế hệ thống thông tin\baocao\QL_BUON_BAN\QL_BUON_BAN\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\DATA\NĂM 3_HK1\Phân tích thiết kế hệ thống thông tin\baocao\QL_BUON_BAN\QL_BUON_BAN\DTO\obj\Debug\DTO.dll
+E:\DATA\NĂM 3_HK1\Phân tích thiết kế hệ thống thông tin\baocao\QL_BUON_BAN\QL_BUON_BAN\DTO\obj\Debug\DTO.pdb
+C:\Users\nguye\Downloads\NĂM 3_HK1\Phân tích thiết kế hệ thống thông tin\baocao\QL_BUON_BAN\QL_BUON_BAN\DTO\bin\Debug\DTO.dll
+C:\Users\nguye\Downloads\NĂM 3_HK1\Phân tích thiết kế hệ thống thông tin\baocao\QL_BUON_BAN\QL_BUON_BAN\DTO\bin\Debug\DTO.pdb
+C:\Users\nguye\Downloads\NĂM 3_HK1\Phân tích thiết kế hệ thống thông tin\baocao\QL_BUON_BAN\QL_BUON_BAN\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\nguye\Downloads\NĂM 3_HK1\Phân tích thiết kế hệ thống thông tin\baocao\QL_BUON_BAN\QL_BUON_BAN\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\NĂM 3_HK1\Phân tích thiết kế hệ thống thông tin\baocao\QL_BUON_BAN\QL_BUON_BAN\DTO\obj\Debug\DTO.dll
+C:\Users\nguye\Downloads\NĂM 3_HK1\Phân tích thiết kế hệ thống thông tin\baocao\QL_BUON_BAN\QL_BUON_BAN\DTO\obj\Debug\DTO.pdb
